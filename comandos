@@ -13,4 +13,10 @@ Push an existing repository from the command line
 	git branch -M main
 	git push -u origin main
 
-Comentarios aniadidos para pruebas
+-> Comandos para ser modificaciones al codigo
+
+ Es necesario ubicarse en la carpeta del proyecto e ingresar los siguientes comandos:
+ 
+ git commit -m "Como instalar rails en la computadora"
+ 
+ 
